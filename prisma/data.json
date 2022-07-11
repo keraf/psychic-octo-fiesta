@@ -1,0 +1,181 @@
+[
+  {
+    "name": "Goko Sarl",
+    "specialities": [
+      "Electrical",
+      "Drywall",
+      "Excavation"
+    ],
+    "city": "Nyon"
+  },
+  {
+    "name": "Spacewax SA",
+    "specialities": [
+      "Drywall",
+      "Framing",
+      "Electrical"
+    ],
+    "city": "Gland",
+    "logo": "th-2256845081.jpg"
+  },
+  {
+    "name": "Zolarex SA",
+    "specialities": [
+      "Framing",
+      "Electrical",
+      "Excavation"
+    ],
+    "city": "Coppet",
+    "logo": "th-226971414.jpg"
+  },
+  {
+    "name": "Isopop SA",
+    "specialities": [
+      "Electrical",
+      "Framing",
+      "Plumbing"
+    ],
+    "city": "Geneva"
+  },
+  {
+    "name": "Pyramax SA",
+    "specialities": [
+      "Framing",
+      "Plumbing"
+    ],
+    "city": "Lausanne",
+    "logo": "th-682209652.jpg"
+  },
+  {
+    "name": "Maineland Sarl",
+    "specialities": [
+      "Excavation"
+    ],
+    "city": "Lausanne",
+    "logo": "th-345751084.jpg"
+  },
+  {
+    "name": "Zoinage Sarl",
+    "specialities": [
+      "Roofing"
+    ],
+    "city": "Gland",
+    "logo": "th-2074994290.jpg"
+  },
+  {
+    "name": "Uxmox SA",
+    "specialities": [
+      "Drywall",
+      "Excavation",
+      "Framing"
+    ],
+    "city": "Nyon",
+    "logo": "th-2173474338.jpg"
+  },
+  {
+    "name": "Greeker SA",
+    "specialities": [
+      "Drywall",
+      "Framing"
+    ],
+    "city": "Nyon"
+  },
+  {
+    "name": "Kegular SA",
+    "specialities": [
+      "Roofing",
+      "Flooring",
+      "Plumbing"
+    ],
+    "city": "Coppet",
+    "logo": "th-2256845081.jpg"
+  },
+  {
+    "name": "Silodyne SA",
+    "specialities": [
+      "Drywall",
+      "Electrical"
+    ],
+    "city": "Lausanne",
+    "logo": "th-2269751084.jpg"
+  },
+  {
+    "name": "Jetsilk Sarl",
+    "specialities": [
+      "Excavation"
+    ],
+    "city": "Gland"
+  },
+  {
+    "name": "Furnitech SA",
+    "specialities": [
+      "Drywall",
+      "Framing",
+      "Roofing"
+    ],
+    "city": "Coppet",
+    "logo": "th-2568274430.jpg"
+  },
+  {
+    "name": "Nurplex SA",
+    "specialities": [
+      "Electrical",
+      "Roofing"
+    ],
+    "city": "Lausanne",
+    "logo": "th-2657494062.jpg"
+  },
+  {
+    "name": "Quizka Sarl",
+    "specialities": [
+      "Drywall",
+      "Electrical"
+    ],
+    "city": "Coppet"
+  },
+  {
+    "name": "Datagene SA",
+    "specialities": [
+      "Drywall",
+      "Excavation"
+    ],
+    "city": "Gland",
+    "logo": "th-3223577236.jpg"
+  },
+  {
+    "name": "Xth SA",
+    "specialities": [
+      "Electrical",
+      "Excavation",
+      "Plumbing"
+    ],
+    "city": "Gland",
+    "logo": "th-4136127262.jpg"
+  },
+  {
+    "name": "Zosis Sarl",
+    "specialities": [
+      "Plumbing"
+    ],
+    "city": "Geneva"
+  },
+  {
+    "name": "Olucore SA",
+    "specialities": [
+      "Drywall",
+      "Excavation",
+      "Flooring"
+    ],
+    "city": "Gland"
+  },
+  {
+    "name": "Vertide SA",
+    "specialities": [
+      "Excavation",
+      "Roofing",
+      "Plumbing"
+    ],
+    "city": "Lausanne",
+    "logo": "th-7557494062.jpg"
+  }
+]

@@ -1,0 +1,43 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./app.db"
+}
+
+model Location {
+  id        String    @id @default(uuid())
+  city      String    @unique()
+  country   String
+  companies Company[]
+}
+
+model Speciality {
+  id        String                    @id @default(uuid())
+  name      String                    @unique()
+  filter    Boolean                   @default(true)
+  companies SpecialitiesOnCompanies[]
+}
+
+model Company {
+  id            String                    @id @default(uuid())
+  name          String
+  logo          String?
+  location      Location                  @relation(fields: [locationId], references: [id])
+  locationId    String
+  specialities  SpecialitiesOnCompanies[]
+}
+
+model SpecialitiesOnCompanies {
+  speciality    Speciality  @relation(fields: [specialityId], references: [id])
+  specialityId  String
+  company       Company     @relation(fields: [companyId], references: [id])
+  companyId     String
+
+  @@id([specialityId, companyId])
+}
